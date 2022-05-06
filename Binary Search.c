@@ -51,5 +51,5 @@ until you've narrowed down the possible locations to just one.
 -> If the search key is smaller than middle element then again finding the middle element and performing the same procedure of s-3 and s-4
 -> If the search key is greater than middle element then again finding the middle element and performing the same procedure of s-3 and s-4
 -> Repeat the same process until we find the search element in the list or until sublist contains only one element
--> If the element doesn't match with the search element, then displaying "Number not found"
+-> If the element doesn't match with the search element, then displaying "Number not found"*/
 
